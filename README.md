@@ -4,14 +4,14 @@
 Project aims at building a playground to understand the cryptographic technique. Or at the very least, to redevelop this [webpage](http://cse29-iiith.vlabs.ac.in/exp5/index.php).
 Currently, it is deployed on [heroku](https://pacific-inlet-80187.herokuapp.com/).
 
-## ToDo
+<!-- ## ToDo
 - [ ] Code the playground
 - [ ] Follow design and architectural patterns :shipit: 
 - [x] Write tests, add CI
 - [ ] Document
 - [x] Auto Deploy
 - [ ] Containerize
-- [ ] Integrate CodeCov
+- [ ] Integrate CodeCov -->
 
 ## Getting Started
 > This assumes you have pip3, python3(>3.6) installed in a virtual environment(recommended) running in the clone of [this repository](https://github.com/agarwalchaitanya/ISS-4)
